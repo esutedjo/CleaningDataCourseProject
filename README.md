@@ -10,6 +10,17 @@ Repo Content:
 4. TidyData2.txt - Data set for task 5 of the course project
 5. codebook.MD - description of the data sets
 
+Data Source:
+Human Activity Recognition Using Smartphones Dataset
+Version 1.0
+================================================================
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+
 
 script name: run_analysis.R
 
